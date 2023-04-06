@@ -1,6 +1,7 @@
-# zigocs - zig docs
+# zigocs
 
 Документация (неоф.) языка программирования [Zig](https://ziglang.org/) с примерами.
+
 Zig unofficial documentaion in Russian language
 
 ## Структура
